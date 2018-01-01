@@ -1,2 +1,2 @@
 # angular-2-demo
-Sample Project to learn Angular 2
+Sample Project to learn Angular_2
